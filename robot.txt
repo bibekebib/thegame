@@ -1,0 +1,2 @@
+The first task was so easy to track right.
+The flag: TheGame{R0b0t5_Ar3_Gr3aT}
